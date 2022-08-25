@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthwindApp.Data", "NorthwindApp.Data\NorthwindApp.Data.csproj", "{3F8E8115-561F-4A5C-95DB-229934E6F6BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthwindData", "NorthwindData\NorthwindData.csproj", "{3F8E8115-561F-4A5C-95DB-229934E6F6BD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind_22_08_22", "NorthwindApp.UI\Northwind_22_08_22.csproj", "{D634717B-3D91-4EFA-BEDA-AF55680B509E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind_22_08_22", "Northwind_22_08_22\Northwind_22_08_22.csproj", "{D634717B-3D91-4EFA-BEDA-AF55680B509E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind_25_08_22_JOIN_HW", "Northwind_25_08_22_JOIN_HW\Northwind_25_08_22_JOIN_HW.csproj", "{BD681580-1ABF-408A-8259-8B0193746037}"
 EndProject
